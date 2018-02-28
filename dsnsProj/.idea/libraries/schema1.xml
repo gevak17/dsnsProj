@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="schema1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/dataSources/d1cb06e2-2bb1-44b9-ab28-ec2337e5668d/storage_v2/_src_/database/hevak.Az3pBQ/schema/public.abK9xQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/dataSources/d1cb06e2-2bb1-44b9-ab28-ec2337e5668d/storage_v2/_src_/database/hevak.Az3pBQ/schema/pg_catalog.0S1ZNQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/dataSources/d1cb06e2-2bb1-44b9-ab28-ec2337e5668d/storage_v2/_src_/database/hevak.Az3pBQ/schema/information_schema.FNRwLQ.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
