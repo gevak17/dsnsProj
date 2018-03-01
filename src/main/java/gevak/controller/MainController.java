@@ -97,7 +97,7 @@ public class MainController {
                               @RequestParam int vkazivnyk) {
         Gidrant gidrant = new Gidrant(lng, lat, street_txt, bud, zrazok, diametr, typ, spravnyi, vkazivnyk);
         gidrantService.save(gidrant);
-        return "redirect:/user";
+        return "redirect:/";
     }
 
     @GetMapping("/findOneGidrant-{id}")
